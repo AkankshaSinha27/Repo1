@@ -1,6 +1,6 @@
 package Trans;
-
-public class Bike extends Vehicle{
+// child (bike) and parent (car) 
+public class Bike extends Car{
 
 	@Override
 	float mileage() {

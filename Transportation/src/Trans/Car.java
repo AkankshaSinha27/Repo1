@@ -1,6 +1,6 @@
 package Trans;
 
-public class Car extends Vehicle{
+public class Car extends Bus{
 
 	@Override
 	float mileage() {
