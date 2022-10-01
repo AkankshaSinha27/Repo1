@@ -7,7 +7,7 @@ public interface Interface_eg {
 	}
 	
 	public void prt(int c);
-	
+
 public class interf implements Interface_eg{
 		
 	
